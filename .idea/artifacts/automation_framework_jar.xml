@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="automation_framework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/automation_framework_jar</output-path>
+    <root id="archive" name="automation_framework.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="automation_framework" />
+    </root>
+  </artifact>
+</component>
