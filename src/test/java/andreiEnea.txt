@@ -1,2 +1,2 @@
-#primul meu commit si push
+#Primul meu commit si push
 #ceva
