@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="automation_framework" />
-        <module name="automation_workShop" />
       </profile>
     </annotationProcessing>
   </component>
